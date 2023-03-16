@@ -31,7 +31,7 @@ Learn how to use `vim` editor. You should be able to do these things comfortably
 
 Your submission for this task should the steps for how to create and save a fil with vim editor.
 
-Submit t3.txt and t4.txt in pull request.
+Submit t3.txt and t4.txt in one pull request.
 
 ----
 
