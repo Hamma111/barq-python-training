@@ -25,19 +25,22 @@
 #### Task 3
 
 Learn how to use `vim` editor. You should be able to do these things comfortably with vim.
+
 - create and save a file with vim
 - edit and save a file with vim
 
-Your submission for this task should the steps for how to create and save a fil with vim editor. 
+Your submission for this task should the steps for how to create and save a fil with vim editor.
+
+Submit t3.txt and t4.txt in pull request.
 
 ----
 
 #### Task 4
 
-Do the Task 3 but with `nano` editor. 
+Do the Task 3 but with `nano` editor.
 
-**Note** that vim and nano are by default available on ubuntu terminals. If needed, install with apt. But dont 
-use any third party applications. 
+**Note** that vim and nano are by default available on ubuntu terminals. If needed, install with apt. But dont
+use any third party applications.
 
 **Also note** that write in your own wording. Do not copy and paste from anywhere.
 
