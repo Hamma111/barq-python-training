@@ -28,3 +28,16 @@ EID_DATETIME_STR = datetime(2023, 4, 22, 0, 0)
 # normal variables and function names should always be in lower snake case
 time_left_in_eid = EID_DATETIME_STR - datetime.now()
 
+
+# Try to move functions in separate files such as utils.py or helpers.py or scraper.py 
+# This will make your code look neater and will be more re-usable
+
+
+# guid-lines for pull requests
+"""
+- no useless unwanted files in PR. Delete those, or add those to .gitignore
+- no commented or unwanted code in PR
+- no incomplete PR
+- no spelling mistakes in PR
+- always add comments in PR
+"""
