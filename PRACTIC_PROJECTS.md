@@ -52,3 +52,17 @@ This video should be helpful as well: https://www.youtube.com/watch?v=xCCYmOeubR
 
 ---
 
+#### Project #4
+SMS sender [2023-04-27]
+
+Write a python program which takes in SMS content and pakistan phone number, and send that phone number that SMS. Here is how it should operate:
+```
+Please enter the SMS content: Salam bhai jaan, I am sending this very important sms to your from twlio via python but it is just a test to be honest. Ok bye.
+Please enter the recepient phone number: +923123123123
+```
+
+**Note** that you have to use Twilio SMS service to execute this project. Documentation of Twilio SMS service: https://www.twilio.com/docs/sms/quickstart/python
+
+---
+
+
